@@ -21,7 +21,6 @@ function Excersie(){
         task_no="2"
         />
         <ExerciseCard 
-
         />
         </>
     );
